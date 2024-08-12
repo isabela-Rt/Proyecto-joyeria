@@ -1,0 +1,214 @@
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background-color: beige;
+    }
+
+    header {
+        background-color: beige;
+        padding: 1rem 0;
+    }
+
+    header .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .logo img {
+            max-width: 150px;
+            height: auto;
+            transform: scale(2);
+        }
+
+        .nav-buttons {
+            display: flex;
+            list-style: none;
+            gap: 4rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 1.2rem;
+            background-color: #AF8B83;
+            color: white;
+            text-decoration: none;
+            border-radius: 20px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 15px;
+            letter-spacing: 2px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn:hover {
+            background-color: #AF8B83;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+        }
+
+
+        main {
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .contact-info {
+            margin-bottom: 2rem;
+        }
+
+        .contact-info h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: #AF8B83;
+        }
+
+        .contact-info p {
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .contact-info ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .contact-info ul li {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-form {
+            background: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .contact-form h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #AF8B83;
+        }
+
+        .contact-form label {
+            display: block;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 0.75rem;
+            margin-bottom: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .contact-form button {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: #AF8B83;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .contact-form button:hover {
+            background-color: #AF8B83;
+        }
+
+        .footer {
+            background-color: #AF8B83;
+            color: #fff;
+            padding: 20px 0; 
+            text-align: center;
+        }
+
+        .footer-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-section {
+            flex: 1;
+            margin: 0 15px;
+            min-width: 200px;
+        }
+
+        .footer-section h3 {
+            margin-top: 0;
+            border-bottom: 2px solid #fff;
+            padding-bottom: 5px;
+        }
+
+        .footer-section p, .footer-section ul {
+            margin: 10px 0;
+        }
+
+        .footer-section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .footer-section ul li {
+            margin: 5px 0;
+        }
+
+        .footer-section a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .social-icon {
+            display: inline-block;
+            margin: 0 10px; 
+        }
+
+        .social-icon img {
+            width: 26px;
+            height: 26px;
+        }
+
+        .footer-bottom {
+            background-color: #AF8B83;
+            padding: 10px 0;
+        }
+
+        .footer-bottom p {
+            margin: 0;
+        }
+
+        @media (max-width: 768px) {
+            .contact-form input, .contact-form textarea {
+                font-size: 0.875rem;
+            }
+
+            .contact-form button {
+                font-size: 0.875rem;
+            }
+        }
