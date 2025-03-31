@@ -19,7 +19,8 @@ Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joye
 
 ## 📸 Capturas de Pantalla  
 ### 📍 Página de Inicio  
-![Inicio](https://via.placeholder.com/800x400/6a0dad/FFFFFF?text=Captura+de+Inicio)  
+![Inicio](https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/Captura%20de%20pantalla%202025-03-30%20220552.png?raw=true)
+
 
 ### 📍 Página de Productos  
 ![Productos](https://via.placeholder.com/800x400/6a0dad/FFFFFF?text=Captura+de+Productos)  
