@@ -1,9 +1,11 @@
 # ✨ Joyería Mangata & Gallo  
-![Joyería Elegance](https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/Captura%20de%20pantalla%202025-03-30%20220254.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/assets/img_visualizacion_repo/Captura%20de%20pantalla%202025-03-30%20220254.png?raw=true" alt="Joyería Elegance">
+</p>
 
 ## 📌 Descripción  
-Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joyería con una estética elegante y moderna. Este proyecto fue desarrollado como parte de mi certificación en un curso de desarrollo web donde quise plasmar una idea que tuve de una joyeria ficticia en la que yo expongo mis productos como vendedor y donde puedo ofrecer mis servicios.  
+Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joyería con una estética elegante y moderna.  
+Este proyecto fue desarrollado como parte de mi certificación en un curso de desarrollo web donde quise plasmar una idea que tuve de una joyería ficticia en la que expongo mis productos como vendedor y donde puedo ofrecer mis servicios.  
 
 ---
 
@@ -12,26 +14,27 @@ Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joye
 - **CSS3** - Estilos y diseño responsivo  
 
 ---
+
 ## 📸 Capturas de Pantalla  
+
 ### 📍 Parte Superior  
 <p align="center">
-  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/Captura%20de%20pantalla%202025-03-30%20220552.png?raw=true" alt="Parte Superior">
+  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/assets/img_visualizacion_repo/Captura%20de%20pantalla%202025-03-30%20220552.png?raw=true" alt="Parte Superior">
 </p>
 
 ### 📍 Formulario de Contacto  
 <p align="center">
-  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/Captura%20de%20pantalla%202025-03-30%20220808.png?raw=true" alt="Formulario de Contacto">
+  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/assets/img_visualizacion_repo/Captura%20de%20pantalla%202025-03-30%20220808.png?raw=true" alt="Formulario de Contacto">
 </p>
-
 
 ### 📍 Página de Servicios  
 <p align="center">
-  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/Captura%20de%20pantalla%202025-03-30%20220741.png?raw=true" alt="Servicios">
+  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/assets/img_visualizacion_repo/Captura%20de%20pantalla%202025-03-30%20220741.png?raw=true" alt="Página de Servicios">
 </p>
 
+---
 
 ## 🎥 Vista Previa  
-![Vista Previa](https://github.com/isabela-Rt/Proyecto-joyeria/blob/d94f539f8b74f4e0dafc40d79c8d740111ddfd48/Video_joyeria_p.gif)
-
-
-
+<p align="center">
+  <img src="https://github.com/isabela-Rt/Proyecto-joyeria/blob/main/assets/img_visualizacion_repo/Video_joyeria_p.gif?raw=true" alt="Vista Previa">
+</p>
