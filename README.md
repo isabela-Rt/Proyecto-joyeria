@@ -1,5 +1,5 @@
 # ✨ Joyería Mangata & Gallo
-![Joyería Elegance](https://via.placeholder.com/1200x400/6a0dad/FFFFFF?text=Joyería+Elegance)  
+![Joyería Elegance]()  
 
 ## 📌 Descripción  
 Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joyería con una estética elegante y moderna. Este proyecto fue desarrollado como parte de mi certificación en un curso de desarrollo web.  
