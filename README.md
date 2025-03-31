@@ -7,7 +7,7 @@ Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joye
 ---
 
 ## 🎥 Vista Previa  
-![Vista Previa](https://github.com/tuusuario/tu-repo/blob/main/Video_joyeria_p.gif?raw=true)
+![Vista Previa](https://github.com/isabela-Rt/Proyecto-joyeria/blob/d94f539f8b74f4e0dafc40d79c8d740111ddfd48/Video_joyeria_p.gif)
 
 ---
 
