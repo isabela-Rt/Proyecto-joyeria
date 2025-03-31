@@ -3,7 +3,7 @@
 
 
 ## 📌 Descripción  
-Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joyería con una estética elegante y moderna. Este proyecto fue desarrollado como parte de mi certificación en un curso de desarrollo web.  
+Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joyería con una estética elegante y moderna. Este proyecto fue desarrollado como parte de mi certificación en un curso de desarrollo web donde quise plasmar una idea que tuve de una joyeria ficticia en la que yo expongo mis productos como vendedor y donde puedo ofrecer mis servicios.  
 
 ---
 
