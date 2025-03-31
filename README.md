@@ -7,8 +7,7 @@ Es una página web diseñada con **HTML y CSS puro** para exhibir piezas de joye
 ---
 
 ## 🎥 Vista Previa  
-Mira el video demostrativo aquí:  
-[![Ver Video](https://img.shields.io/badge/🎬%20Ver%20Video-Morado?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabela-Rt/Proyecto-joyeria/raw/main/video joyeria p.mp4)  
+![Vista Previa](https://github.com/tuusuario/tu-repo/blob/main/Video_joyeria_p.gif?raw=true)
 
 ---
 
